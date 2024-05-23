@@ -1,5 +1,4 @@
-
-<img src="assets/Header.gif" alt="Banner Header">
+<img src="assets/Header.gif" alt="Banner Header" width="100%">
 
 <h1 align="center"><b>Olá , eu sou o Matheus Marques</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
@@ -82,4 +81,5 @@
 
 <br>
 
-<img src="assets/Footer.gif" alt="Banner Footer">
+<img src="assets/Footer.gif" alt="Banner Footer" width="100%">
+
