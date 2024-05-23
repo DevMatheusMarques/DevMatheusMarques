@@ -6,14 +6,15 @@
 </p>
 <br>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture ><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <br>
 
+- Tenho 22 Anos
 - Graduando em Análise e Desenvolvimento de Sistemas (5/6)
 - Desenvolvo aplicações web nas horas vagas
-- Buscando oportunidades desafiadoras e que me façam evoluir meus conhecimentos e colocar em prática tudo que aprendi até o momento.
-- Amante da inovação e tecnologia
+- Busco oportunidades desafiadoras e que me façam evoluir meus conhecimentos e colocar em prática tudo que aprendi até o momento.
+- Amo inovação e tecnologia, pois através delas pode-se construir um futuro melhor.
 - Visite meu linkedin e confira a sequência de certificados adquiridos, [Linkedin](https://www.linkedin.com/in/matheus-henrique-couto-marques/)
 
 <br><br>
@@ -30,7 +31,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,py,mysql,mongo,cs,html,css,bootstrap,js,react,vue,git,github,linux,vscode,laravel&perline=5" />
+    <img src="https://skillicons.dev/icons?i=php,py,mysql,mongo,cs,html,css,bootstrap,js,react,vue,git,github,linux,vscode,laravel&perline=4" />
   </a>
 </p>
 <br> 
@@ -64,17 +65,6 @@
   <img width="49%" height="195px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devmatheusmarques&theme=react&show_icons=true"/>
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmatheusmarques&layout=compact&theme=react&hide_border=true" />
 </div>
-
-<br>
-
-<div align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devmatheusmarques/devmatheusmarques/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devmatheusmarques/devmatheusmarques/output/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/devmatheusmarques/devmatheusmarques/output/github-contribution-grid-snake.svg">
-    </picture>
-</div>
-
 </a>
 </div>
 
