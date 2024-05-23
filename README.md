@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <img src="assets/Header.gif" alt="Banner Header">
+=======
+https://github.com/DevMatheusMarques/DevMatheusMarques/assets/134082720/fbae37e8-2ba7-481e-90d6-4b943ed005a2
+>>>>>>> cfe54e35f211393cdb2add731d71f3e8eb9926e4
 
 <h1 align="center"><b>Olá , eu sou o Matheus Marques</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
@@ -81,4 +85,8 @@
 
 <br>
 
+<<<<<<< HEAD
 <img src="assets/Footer.gif" alt="Banner Footer">
+=======
+https://github.com/DevMatheusMarques/DevMatheusMarques/assets/134082720/f8f09f17-6b7f-4705-9842-35e8142badcf
+>>>>>>> cfe54e35f211393cdb2add731d71f3e8eb9926e4
