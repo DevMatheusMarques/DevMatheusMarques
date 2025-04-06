@@ -11,9 +11,8 @@
 
 <br>
 
-- Tenho 22 Anos
-- Graduando em Análise e Desenvolvimento de Sistemas (5/6)
-- Desenvolvo aplicações web nas horas vagas
+- Tecnólogo em Análise e Desenvolvimento de Sistemas.
+- Desenvolvo aplicações web completas com foco nas melhores práticas de programação.
 - Busco oportunidades desafiadoras e que me façam evoluir meus conhecimentos e colocar em prática tudo que aprendi até o momento.
 - Amo inovação e tecnologia, pois através delas pode-se construir um futuro melhor.
 - Visite meu linkedin e confira a sequência de certificados adquiridos, [Linkedin](https://www.linkedin.com/in/matheus-henrique-couto-marques/)
@@ -32,7 +31,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,py,mysql,mongo,cs,html,css,bootstrap,js,react,vue,git,github,linux,vscode,laravel&perline=4" />
+    <img src="https://skillicons.dev/icons?i=java,springboot,angular,php,py,mysql,mongo,cs,html,css,bootstrap,js,react,vue,git,github,linux,vscode,laravel&perline=4" />
   </a>
 </p>
 <br> 
